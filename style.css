@@ -47,6 +47,8 @@ nav ul li a {
 }
  nav ul ul li a:hover {
   background: rgb(143, 252, 210);
+  opacity: 0.95;
+
 } 
 nav ul ul {
   position: absolute;
